@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.css-ul-container {
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+  width: 1200px;
+}
+
+.css-top-container {
+  margin-left: 50px;
+}
+
+.css-bg-container {
+  padding: 10px;
+}
+
+.css-search-icon {
+  width: 20px;
+}
